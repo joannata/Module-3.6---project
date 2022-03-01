@@ -119,3 +119,35 @@
   .services-icons {
     margin-bottom: 70px;
   }
+
+  .card {
+    align-items: center;
+    font-family: "Open Sans Condensed", sans-serif;
+  }
+  
+  .card .card-title {
+    font-weight: 600;
+  }
+  
+  .card .card-text {
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+    letter-spacing: 3px;
+  }
+  
+  .bg {
+    background-color: #F8F8F8;
+    padding-top: 70px;
+    padding-bottom: 100px;
+  }
+  
+  .portfolio {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .card {
+    border: none;
+  }
